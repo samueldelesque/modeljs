@@ -1,5 +1,5 @@
-# modeljs
-A simple Model of front and backend JS development
+# Model.js
+A simple Model for front and backend JS development.
 
 # Example
 
