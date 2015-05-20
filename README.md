@@ -4,6 +4,17 @@ A simple Model for front and backend JS development.
 # Example
 
 ```
+// Node.js
+var Model = require('jsmodel')
+```
+
+```
+// Html app
+<script src="model.js"></script>
+```
+
+
+```
 var User = Model.extend({
   fullName: function(){
     return this.get("firstname")+" "+this.get("lastname")
