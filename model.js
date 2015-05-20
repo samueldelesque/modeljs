@@ -32,3 +32,8 @@ Model.extend = function(props) {
 	}
 	return child
 }
+
+// Node.js
+if(typeof module !== 'undefined' && module.exports) {
+	module.exports = Model
+}
