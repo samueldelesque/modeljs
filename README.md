@@ -17,10 +17,13 @@ var me = new User({
 
 me.set("age",32)
 
-var age = me.get("age")
 
-//"Samuel Delesque"
-var fullname = me.fullName()
+
+me.fullName()
+// -> "Samuel Delesque"
+
+me.get("age")
+// -> 32
 ```
 
 
