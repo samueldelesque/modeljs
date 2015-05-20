@@ -22,3 +22,10 @@ var age = me.get("age")
 //"Samuel Delesque"
 var fullname = me.fullName()
 ```
+
+
+
+
+### Credits
+
+This app was brought to you by [Samuel Delesque](http://samueldelesque.me).
