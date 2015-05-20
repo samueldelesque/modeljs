@@ -28,4 +28,4 @@ var fullname = me.fullName()
 
 ### Credits
 
-This app was brought to you by [Samuel Delesque](http://samueldelesque.me).
+This project was brought to you by [Samuel Delesque](http://samueldelesque.me).
